@@ -1,4 +1,4 @@
-[Blue Dark Professional Geometric Business Project Presentation .pdf](https://github.com/user-attachments/files/16433172/Blue.Dark.Professional.Geometric.Business.Project.Presentation.pdf)
+![Blue Dark Professional Geometric Business Project Presentation ](https://github.com/user-attachments/assets/8419854c-82aa-429d-bd3f-7a4668ca0253)
 
 
 # AI Magic Box
