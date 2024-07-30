@@ -20,4 +20,4 @@ Welcome to **AI Magic Box**, your ultimate toolkit for integrating powerful AI c
 - Answer questions across a wide array of topics.
 - Leverage advanced natural language processing for insightful responses.
 
-[Screencast from 07-30-2024 03:14:56 PM.webm](https://github.com/user-attachments/assets/c91ddfc8-812c-4004-b1fa-4217d5397466)
+[video.webm](https://github.com/user-attachments/assets/517f7570-2fe4-4ee9-8f62-6922f8fb8c63)
